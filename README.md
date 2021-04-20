@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](screenshot.jpg)
+![](images/screenshot.jpeg)
 
 - Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-four-card-feature-vL8HiKycn)
 - Live Site URL: [Github Page](https://lholcomb.github.io/four-card-feature-section/)
